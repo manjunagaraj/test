@@ -46,8 +46,10 @@ transition: opacity ease 0.5s;}
 .login-help{font-size: 12px;}
 
 
-.h1, h1 {
+.h2,h2 {
     font-size: 200px;
+
+    background-color: gainsboro;
 }
 
 
@@ -57,4 +59,18 @@ transition: opacity ease 0.5s;}
     margin-right: auto;
     margin-left: auto;
     background-color: black;
+}
+
+.h3, h3 {
+    font-size: 24px;
+
+
+    background-color: gainsboro;
+}
+.dropdown-toggle {
+	text-color:green;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+    background-color: gainsboro;
 }

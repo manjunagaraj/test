@@ -26,4 +26,4 @@ def show
     end
 	
 end
- <ul class="nav pull-right">
+ 
